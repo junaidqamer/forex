@@ -1,0 +1,2 @@
+# forex
+yen/dollar trades
